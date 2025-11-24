@@ -26,3 +26,9 @@ Este projeto tem como objetivo explorar, limpar, modelar e visualizar dados de v
 ## 👨‍💼 Autor
 
 [Gustavo Henrique](https://www.linkedin.com/in/gustavo-henrique-ds/)
+
+
+
+
+<img width="2264" height="1146" alt="image" src="https://github.com/user-attachments/assets/f6539e4c-c85d-4260-9460-359391801bd1" />
+<img width="2319" height="1240" alt="image" src="https://github.com/user-attachments/assets/6d6a5a49-298a-4d96-af88-730526eebfaf" />
